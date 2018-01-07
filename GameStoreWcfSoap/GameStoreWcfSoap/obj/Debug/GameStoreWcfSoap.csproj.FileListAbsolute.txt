@@ -1,0 +1,9 @@
+C:\Users\jacob\source\repos\GameStoreWcfSoap\GameStoreWcfSoap\bin\GameStoreWcfSoap.dll.config
+C:\Users\jacob\source\repos\GameStoreWcfSoap\GameStoreWcfSoap\bin\GameStoreWcfSoap.dll
+C:\Users\jacob\source\repos\GameStoreWcfSoap\GameStoreWcfSoap\bin\GameStoreWcfSoap.pdb
+C:\Users\jacob\source\repos\GameStoreWcfSoap\GameStoreWcfSoap\bin\GameStorelibrary.dll
+C:\Users\jacob\source\repos\GameStoreWcfSoap\GameStoreWcfSoap\bin\GameStorelibrary.pdb
+C:\Users\jacob\source\repos\GameStoreWcfSoap\GameStoreWcfSoap\obj\Debug\GameStoreWcfSoap.csprojResolveAssemblyReference.cache
+C:\Users\jacob\source\repos\GameStoreWcfSoap\GameStoreWcfSoap\obj\Debug\GameStoreWcfSoap.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\GameStoreWcfSoap\GameStoreWcfSoap\obj\Debug\GameStoreWcfSoap.dll
+C:\Users\jacob\source\repos\GameStoreWcfSoap\GameStoreWcfSoap\obj\Debug\GameStoreWcfSoap.pdb
